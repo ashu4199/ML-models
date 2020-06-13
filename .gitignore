@@ -1,0 +1,5 @@
+ven/
+.DS_Store
+ANN/dataset
+.swp
+__pycache__
